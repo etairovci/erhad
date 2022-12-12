@@ -1,8 +1,0 @@
-.
-.
-
-char.
-practice
-out
-.
-.
